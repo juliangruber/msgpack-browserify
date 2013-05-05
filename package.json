@@ -46,11 +46,7 @@
         "4.0",
         "nightly"
       ],
-      "chrome": [
-        6,
-        7,
-        "canary"
-      ],
+      "chrome": "6..latest",
       "safari": [
         "5.0.5",
         "5.1",
