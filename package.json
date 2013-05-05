@@ -38,7 +38,7 @@
     "files": "test/browser.js",
     "browsers": [
       "ie/9..10",
-      "firefox/3.6,4.0,nightly"
+      "firefox/3.6,4.0,nightly",
       "chrome/6..latest",
       "safari/5.0.5..latest",
       "opera/11.5..latest",
