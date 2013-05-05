@@ -36,30 +36,15 @@
   "license": "MIT",
   "testling": {
     "files": "test/browser.js",
-    "browsers": {
-      "ie": [
-        9,
-        10
-      ],
-      "firefox": [
-        "3.6",
-        "4.0",
-        "nightly"
-      ],
-      "chrome": "6..latest",
-      "safari": [
-        "5.0.5",
-        "5.1",
-        "6.0"
-      ],
-      "opera": [
-        "11.5",
-        "11.6",
-        "12.0"
-      ],
-      "iphone": "6.0",
-      "ipad": "6.0",
-      "android-browser": "4.2"
-    }
+    "browsers": [
+      "ie/9..10",
+      "firefox/3.6,4.0,nightly"
+      "chrome/6..latest",
+      "safari/5.0.5..latest",
+      "opera/11.5..latest",
+      "iphone/6.0",
+      "ipad/6.0",
+      "android-browser/4.2"
+    ]
   }
 }
