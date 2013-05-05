@@ -5,7 +5,7 @@
 
 Uses [msgpack-js](https://github.com/creationix/msgpack-js) with
 [buffer](http://nodejs.org/api/buffer.html) in node and
-[msgpacl-js-browser](https://github.com/crreationix/msgpack-js-browser) with
+[msgpack-js-browser](https://github.com/crreationix/msgpack-js-browser) with
 [typed arrays](https://developer.mozilla.org/en-US/docs/JavaScript/Typed_arrays)
 in browsers.
 
