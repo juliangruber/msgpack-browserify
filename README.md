@@ -9,6 +9,7 @@ Uses [msgpack-js](https://github.com/creationix/msgpack-js) with
 [typed arrays](https://developer.mozilla.org/en-US/docs/JavaScript/Typed_arrays)
 in browsers.
 
+[![Build Status](https://travis-ci.org/juliangruber/msgpack-browserify.png?branch=master)](https://travis-ci.org/juliangruber/msgpack-browserify)
 [![browser support](https://ci.testling.com/juliangruber/msgpack-browserify.png)](https://ci.testling.com/msgpack-browserify)
 
 ## Usage
