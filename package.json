@@ -1,0 +1,69 @@
+{
+  "name": "msgpack-browserify",
+  "description": "msgpack for node and browsers",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/msgpack-browserify.git"
+  },
+  "homepage": "https://github.com/juliangruber/msgpack-browserify",
+  "scripts": {
+    "test": "node node_modules/msgpack-js/test.js"
+  },
+  "browser": "browser.js",
+  "main": "node.js",
+  "dependencies": {
+    "msgpack-js-browser": "~0.1.4",
+    "msgpack-js": "~0.1.5"
+  },
+  "devDependencies": {
+    "tape": "~1.0.1"
+  },
+  "keywords": [
+    "msgpack",
+    "binary",
+    "encode",
+    "decode",
+    "frame",
+    "browserify",
+    "serialize"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test/browser.js",
+    "browsers": {
+      "ie": [
+        9,
+        10
+      ],
+      "firefox": [
+        "3.6",
+        "4.0",
+        "nightly"
+      ],
+      "chrome": [
+        6,
+        7,
+        "canary"
+      ],
+      "safari": [
+        "5.0.5",
+        "5.1",
+        "6.0"
+      ],
+      "opera": [
+        "11.5",
+        "11.6",
+        "12.0"
+      ],
+      "iphone": "6.0",
+      "ipad": "6.0",
+      "android-browser": "4.2"
+    }
+  }
+}
