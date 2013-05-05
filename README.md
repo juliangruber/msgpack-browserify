@@ -10,7 +10,8 @@ Uses [msgpack-js](https://github.com/creationix/msgpack-js) with
 in browsers.
 
 [![Build Status](https://travis-ci.org/juliangruber/msgpack-browserify.png?branch=master)](https://travis-ci.org/juliangruber/msgpack-browserify)
-[![browser support](https://ci.testling.com/juliangruber/msgpack-browserify.png)](https://ci.testling.com/msgpack-browserify)
+
+[![browser support](https://ci.testling.com/juliangruber/msgpack-browserify.png)](https://ci.testling.com/juliangruber/msgpack-browserify)
 
 ## Usage
 
