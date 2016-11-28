@@ -14,10 +14,10 @@
   "main": "node.js",
   "dependencies": {
     "msgpack-js-browser": "~0.1.4",
-    "msgpack-js": "~0.1.5"
+    "msgpack-js": "~0.3.0"
   },
   "devDependencies": {
-    "tape": "~1.0.1"
+    "tape": "~4.6.3"
   },
   "keywords": [
     "msgpack",
